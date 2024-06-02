@@ -156,7 +156,6 @@
   }
   
   .about-text p {
-    color: ;
     letter-spacing: 1px;
     line-height: 28px;
     font-size: 18px;
@@ -340,10 +339,6 @@
     font-size: 14px;
     
   }
-  
-  .audio {
-    display: none;
-  }
     
   #mail {
     display: inline-block;
@@ -395,9 +390,7 @@
     color: rgb(227, 213, 57);
   }
   
-  #jnode {
-    color: rgb(33, 122, 36)
-  }
+
   
   .fa-brands:hover {
     transform: scale(1.5);
